@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohaGomaa
 - 👀 I’m interested in Mobile applications development 
 - 🌱 I’m currently learning Flutter development 
-- 📫 How to reach me <email>mohamedahmed.mg97@gmail.com <\email>
+- 📫 How to reach me mohamedahmed.mg97@gmail.com 
 
 <!---
 MohaGomaa/MohaGomaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
