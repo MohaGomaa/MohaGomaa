@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohaGomaa
+- 👋 Hi, I’m Mohamed Ahmed Gomaa
 - 👀 I’m interested in Mobile applications development 
 - 🌱 I’m currently learning Flutter development 
 - 📫 How to reach me mohamedahmed.mg97@gmail.com 
